@@ -1,0 +1,13 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "B5B-XH-A") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/B5B-XH-A/B5B-XH-A.kicad_sym") (options "") (descr ""))
+	(lib (name "BQ25798RQMR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/BQ25798RQMR/BQ25798RQMR.kicad_sym") (options "") (descr ""))
+	(lib (name "BQ76905RGRR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/BQ76905RGRR/BQ76905RGRR.kicad_sym") (options "") (descr ""))
+	(lib (name "MCU_Module_LattePanda1") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/lattepandamu_symbol/MCU_Module_LattePanda.kicad_sym") (options "") (descr ""))
+	(lib (name "MCU_Module_LattePanda") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/LattePanda-Mu-main/Electricals/Libraries/MCU_Module_LattePanda.kicad_sym") (options "") (descr ""))
+	(lib (name "MAX17048G_") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/MAX17048G_/MAX17048G_.kicad_sym") (options "") (descr ""))
+	(lib (name "MAX17205G_T") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/MAX17205G_T/MAX17205G_T.kicad_sym") (options "") (descr ""))
+	(lib (name "TPS2553DBVR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/TPS2553DBVR/TPS2553DBVR.kicad_sym") (options "") (descr ""))
+	(lib (name "USB2517-JZX") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/USB2517-JZX/USB2517-JZX.kicad_sym") (options "") (descr ""))
+	(lib (name "XT60-M") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/XT60-M/XT60-M.kicad_sym") (options "") (descr ""))
+)
