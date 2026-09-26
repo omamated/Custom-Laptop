@@ -597,7 +597,7 @@
 			(uuid "3ba46b0a-e84a-4e4e-ae32-a75d0ef1b5e1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1308,7 +1308,7 @@
 			(uuid "dcb640c1-b62c-45db-b5f7-932467066c53")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1576,7 +1576,7 @@
 			(uuid "a64cb8a4-fe3f-422e-bcc0-d6276ae0a4ab")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1749,7 +1749,7 @@
 	(footprint "A_HDJ_Library:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "05e0cc94-6f8a-4daf-9ae1-724d217467b9")
-		(at 98.800001 83.163026)
+		(at 97.125001 83.243026)
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J1"
@@ -2064,7 +2064,7 @@
 			(uuid "b720d146-c228-4d39-8d4a-08a47ad75d79")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2079,7 +2079,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "07693ff7-6502-4ad1-9cbc-9e5bf6d25367")
-		(at 93.390001 76.723026)
+		(at 107.800001 90.743026)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R76"
@@ -2332,7 +2332,7 @@
 			(uuid "2e6e8bd2-fee9-434c-bb81-6499e9a0acfa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2609,7 +2609,7 @@
 			(uuid "603ddb95-0120-43ee-a6f8-c31bf9fc956d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3190,7 +3190,7 @@
 			(uuid "8b0c5df2-fc7a-4489-b330-312befa66594")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3467,7 +3467,7 @@
 			(uuid "8e85eb35-a6c3-4d6a-ade3-5558c82cf92b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3735,7 +3735,7 @@
 			(uuid "95e8066b-9a51-4aff-9a36-fe06e8dc7f7b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4003,7 +4003,7 @@
 			(uuid "1f7bf74d-dd7f-4bc6-a1f0-edb7b9a6893f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4280,7 +4280,7 @@
 			(uuid "8a7ccbba-6c19-47e2-82e1-df7540e16f99")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4939,7 +4939,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "1176c252-0d23-46a6-a95a-0b9ba471cf18")
-		(at 93.390001 80.703026)
+		(at 152.790001 49.743026 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R83"
@@ -4965,7 +4965,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4977,7 +4977,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5025,7 +5025,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5061,24 +5061,14 @@
 			(uuid "817eeeec-9c9b-4370-90fb-a6f81608948c")
 		)
 		(fp_line
-			(start -0.93 -0.47)
-			(end 0.93 -0.47)
+			(start 0.93 0.47)
+			(end -0.93 0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d8728e19-576f-4182-b0b3-f6aa622f4045")
-		)
-		(fp_line
-			(start -0.93 0.47)
-			(end -0.93 -0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "10b50bd8-3b78-412a-a40c-b05a77a8a2e7")
+			(uuid "ed947050-231e-4edb-8cfe-0e3937c969ef")
 		)
 		(fp_line
 			(start 0.93 -0.47)
@@ -5091,34 +5081,34 @@
 			(uuid "3af9bf84-d7fd-4534-973c-04e65932bcce")
 		)
 		(fp_line
-			(start 0.93 0.47)
-			(end -0.93 0.47)
+			(start -0.93 0.47)
+			(end -0.93 -0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ed947050-231e-4edb-8cfe-0e3937c969ef")
+			(uuid "10b50bd8-3b78-412a-a40c-b05a77a8a2e7")
 		)
 		(fp_line
-			(start -0.525 -0.27)
-			(end 0.525 -0.27)
+			(start -0.93 -0.47)
+			(end 0.93 -0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d8728e19-576f-4182-b0b3-f6aa622f4045")
+		)
+		(fp_line
+			(start 0.525 0.27)
+			(end -0.525 0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3ec14c30-e9fa-4834-946d-6aa766361b98")
-		)
-		(fp_line
-			(start -0.525 0.27)
-			(end -0.525 -0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "8a374733-642c-4ffa-a353-ed3965e83936")
+			(uuid "0e04710a-a084-435f-924a-e7e89ae10a54")
 		)
 		(fp_line
 			(start 0.525 -0.27)
@@ -5131,14 +5121,24 @@
 			(uuid "20980915-f6b1-4d99-bb99-4f02e560f557")
 		)
 		(fp_line
-			(start 0.525 0.27)
-			(end -0.525 0.27)
+			(start -0.525 0.27)
+			(end -0.525 -0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0e04710a-a084-435f-924a-e7e89ae10a54")
+			(uuid "8a374733-642c-4ffa-a353-ed3965e83936")
+		)
+		(fp_line
+			(start -0.525 -0.27)
+			(end 0.525 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3ec14c30-e9fa-4834-946d-6aa766361b98")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -5152,7 +5152,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0)
+			(at -0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -5172,7 +5172,7 @@
 			(uuid "20a13f71-f0cd-47b4-a6a8-48bc08b5ee9c")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0)
+			(at 0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -5192,7 +5192,7 @@
 			(uuid "8ab7c4d6-5bf0-46cd-b76c-9225f0c30468")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5460,7 +5460,7 @@
 			(uuid "feaf1481-358a-43c3-94bb-8b56f799ebf7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5737,7 +5737,7 @@
 			(uuid "c4866a21-7ece-472c-9395-aecb4f44890c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6005,7 +6005,7 @@
 			(uuid "4235cdac-44a6-43e1-9613-5db56371de27")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6592,7 +6592,7 @@
 			(uuid "c804c800-af36-450d-839b-36d4aed05f19")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6860,7 +6860,7 @@
 			(uuid "40b019f7-4a84-41a8-840f-844990af56af")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7562,7 +7562,7 @@
 			(uuid "2007d35b-33f4-46c7-8ff2-a41e84535342")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8152,7 +8152,7 @@
 			(uuid "00ded426-d891-4049-a156-1539bf893a19")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8167,7 +8167,7 @@
 	(footprint "A_HDJ_Library:USB3_A_Molex_48406-0001_Horizontal_Stacked"
 		(layer "F.Cu")
 		(uuid "1e00948c-8a85-451f-9f71-12b51d5e8ad9")
-		(at 67.212091 156.443026)
+		(at 69.800001 156.243026)
 		(descr "USB 3.0, type A, right angle, stacked (https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/484/48406/484060001_sd.pdf)")
 		(tags "USB 3.0 type A right angle stacked dual")
 		(property "Reference" "J4"
@@ -9449,7 +9449,7 @@
 			(uuid "c05b889f-42b2-4173-9e0c-756a7e6e340e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9766,7 +9766,7 @@
 			(uuid "503b4552-6394-4f11-b7c0-ccd71673e09c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWPA4020S.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWPA4020S.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10951,7 +10951,7 @@
 			(uuid "11a77756-e720-42e6-b78c-307d5576db5f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10966,7 +10966,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "22e0c578-35ad-41fc-b881-2c163d2d0eb3")
-		(at 110.100001 138.263026 90)
+		(at 113.300001 138.733026 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R68"
@@ -11219,7 +11219,7 @@
 			(uuid "c7a97e44-154c-4bff-b0b1-ea19e6599358")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11496,7 +11496,7 @@
 			(uuid "e74fe0e4-b3d4-4dd6-b59a-f799b6b34fd3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12270,7 +12270,7 @@
 			(uuid "0929838e-5e04-41b8-8217-1fc0d5d5d241")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12285,7 +12285,7 @@
 	(footprint "Connector_USB:USB_A_Molex_67643_Horizontal"
 		(layer "F.Cu")
 		(uuid "285be01e-98a8-414c-ab24-24766fd54783")
-		(at 86.300001 154.296183)
+		(at 87.300001 154.243026)
 		(descr "USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf")
 		(tags "USB_A Female Connector receptacle")
 		(property "Reference" "J18"
@@ -12784,7 +12784,7 @@
 	(footprint "Connector_USB:USB_A_Molex_67643_Horizontal"
 		(layer "F.Cu")
 		(uuid "28c8c846-4125-487b-a227-dcf32a6e1f15")
-		(at 103.712091 154.243026)
+		(at 104.870001 154.243026)
 		(descr "USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf")
 		(tags "USB_A Female Connector receptacle")
 		(property "Reference" "J19"
@@ -14206,7 +14206,7 @@
 			(uuid "aff8442c-403a-4836-a904-8f9631939089")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Molex_208658-1001_Horizontal.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_Video.3dshapes/HDMI_A_Molex_208658-1001_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14221,7 +14221,7 @@
 	(footprint "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "2932c8f6-2814-49e8-8c68-e1e82b58f991")
-		(at 89.712501 86.608026)
+		(at 145.877501 52.648026)
 		(descr "SOIC, 8 Pin (JEITA/EIAJ ED-7311-19 variation 08-001-BBA and Atmel/Microchip, 208 mils width, https://www.jeita.or.jp/japanese/standard/book/ED-7311-19/#target/page_no=21, https://ww1.microchip.com/downloads/en/DeviceDoc/20005045C.pdf#page=23, https://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf#page=162)")
 		(tags "SOIC SO P-SOP SOP SOP-8 SO SO-8 8S2 S2AE/F K04-056 CASE-751BE SO8W 8-Pin-SOIC PSA W8-2 W8-4 W8MS-1 FPT-8P-M08")
 		(property "Reference" "U18"
@@ -14869,7 +14869,7 @@
 			(uuid "c32ab015-9084-40c9-95a4-c1a95b9d045e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15226,7 +15226,7 @@
 			(uuid "0934c708-452d-47c0-afab-290354c99ead")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15622,7 +15622,7 @@
 			(uuid "7ded6e8b-a161-4740-841c-a61d807848a0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15899,7 +15899,7 @@
 			(uuid "52f07f70-4b1f-4edf-9119-e47e0f55325a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16176,7 +16176,7 @@
 			(uuid "0017cae5-e217-481a-8cea-a72890574664")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16191,7 +16191,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "2ff56e7b-1c2d-432d-91e0-d96d8f750a72")
-		(at 96.300001 76.723026)
+		(at 139.300001 51.743026 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R87"
@@ -16217,7 +16217,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -16229,7 +16229,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -16277,7 +16277,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -16313,24 +16313,14 @@
 			(uuid "7ce7bf48-535c-4534-b43d-3f609de1f51c")
 		)
 		(fp_line
-			(start -0.93 -0.47)
-			(end 0.93 -0.47)
+			(start 0.93 0.47)
+			(end -0.93 0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "99026d2e-4c36-49d8-8832-a88804a92a5d")
-		)
-		(fp_line
-			(start -0.93 0.47)
-			(end -0.93 -0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b4ed7734-150b-402a-bcc4-8329f80980cb")
+			(uuid "73691bcd-e57b-49e7-a25a-2cb89025deba")
 		)
 		(fp_line
 			(start 0.93 -0.47)
@@ -16343,34 +16333,34 @@
 			(uuid "9a60e93b-232a-4c61-a668-3772e4d82f0d")
 		)
 		(fp_line
-			(start 0.93 0.47)
-			(end -0.93 0.47)
+			(start -0.93 0.47)
+			(end -0.93 -0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "73691bcd-e57b-49e7-a25a-2cb89025deba")
+			(uuid "b4ed7734-150b-402a-bcc4-8329f80980cb")
 		)
 		(fp_line
-			(start -0.525 -0.27)
-			(end 0.525 -0.27)
+			(start -0.93 -0.47)
+			(end 0.93 -0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "99026d2e-4c36-49d8-8832-a88804a92a5d")
+		)
+		(fp_line
+			(start 0.525 0.27)
+			(end -0.525 0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9ab5b069-2794-4f96-889a-154ca0ec121e")
-		)
-		(fp_line
-			(start -0.525 0.27)
-			(end -0.525 -0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "7956e2f5-fb39-4b07-bf81-5870b1f75b6f")
+			(uuid "15bd7dcb-e1db-472a-b67f-3d544f3adb57")
 		)
 		(fp_line
 			(start 0.525 -0.27)
@@ -16383,14 +16373,24 @@
 			(uuid "ada5f630-8663-4de2-901e-c99d1e6edb05")
 		)
 		(fp_line
-			(start 0.525 0.27)
-			(end -0.525 0.27)
+			(start -0.525 0.27)
+			(end -0.525 -0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "15bd7dcb-e1db-472a-b67f-3d544f3adb57")
+			(uuid "7956e2f5-fb39-4b07-bf81-5870b1f75b6f")
+		)
+		(fp_line
+			(start -0.525 -0.27)
+			(end 0.525 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9ab5b069-2794-4f96-889a-154ca0ec121e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -16404,7 +16404,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0)
+			(at -0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -16424,7 +16424,7 @@
 			(uuid "19fb34e2-9196-4862-a1b4-e8c7eb86498f")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0)
+			(at 0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -16444,7 +16444,7 @@
 			(uuid "7c9d7583-e420-4d23-95d4-8be2212b628c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16712,7 +16712,7 @@
 			(uuid "d979f834-372a-4940-a93c-d12c0e22f9c8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17137,7 +17137,7 @@
 			(uuid "043696dc-faa5-4d8b-911e-750e378acd9e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19265,7 +19265,7 @@
 			(uuid "2c6e0cc9-bc5f-4274-bc2d-b0ddf1b8b287")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20689,7 +20689,7 @@
 			(uuid "12e8513b-75e7-45ee-96c8-d74ec982f92b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21046,7 +21046,7 @@
 			(uuid "9b1a612f-2d9a-4f3c-83b2-3e430de56a5f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21854,7 +21854,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "3bbdc00b-1bab-40cb-9ec6-433b1e438fb7")
-		(at 96.300001 80.703026)
+		(at 152.790001 52.743026)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R89"
@@ -21869,7 +21869,7 @@
 			)
 		)
 		(property "Value" "0R/1%"
-			(at 0 1.17 0)
+			(at 14 14.67 0)
 			(layer "F.Fab")
 			(uuid "aa383348-2c8a-45d8-b8d0-f724395f7042")
 			(effects
@@ -22107,7 +22107,7 @@
 			(uuid "1eee28bd-1f41-4baa-a2da-0664605e809e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22697,7 +22697,7 @@
 			(uuid "546b15c3-efe8-432a-8842-7f30ac88c99a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22974,7 +22974,7 @@
 			(uuid "aad13985-34f8-4542-a285-8c56d1dcc5c1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23688,7 +23688,7 @@
 			(uuid "d8270f49-a8b7-4051-807f-caa7967061f7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23965,7 +23965,7 @@
 			(uuid "50828e4b-83de-4f24-8929-79f25bec51d3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24877,7 +24877,7 @@
 			(uuid "e0dd979c-5233-42d3-bbed-f1b415862942")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25796,7 +25796,7 @@
 	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "46c2b92a-a2cd-42ff-bf0c-a1fafe8c59fe")
-		(at 103.525001 87.743026 180)
+		(at 154.515001 45.743026 180)
 		(descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
 		(tags "solder jumper open")
 		(property "Reference" "JP6"
@@ -25811,7 +25811,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at -0.5 -4.6 0)
+			(at -0.49 -2.6 0)
 			(layer "F.Fab")
 			(uuid "566aa0a6-382c-4fb8-824f-776533060f85")
 			(effects
@@ -26437,7 +26437,7 @@
 			(uuid "ee3ac6d3-628f-498c-ab5f-dbc625354839")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26452,11 +26452,11 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "480927c6-64a2-4e62-932a-ba542995de91")
-		(at 93.390001 72.743026)
+		(at 108.300001 119.833026 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at -1.820261 -0.955 0)
+			(at -1.820261 -0.955 90)
 			(layer "F.SilkS")
 			(uuid "42e3ceee-d0ff-4eee-8c14-09ad1a4e20fe")
 			(effects
@@ -26467,7 +26467,7 @@
 			)
 		)
 		(property "Value" "1K/1%"
-			(at 0 1.17 0)
+			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "431df54c-b8ac-4721-84bf-ac355414e4e2")
 			(effects
@@ -26478,7 +26478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -26490,7 +26490,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -26502,7 +26502,7 @@
 			)
 		)
 		(property "Buy_Link" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c74a1b9-d083-4784-ba95-d0c884cd60a2")
@@ -26514,7 +26514,7 @@
 			)
 		)
 		(property "DF_Comment" "贴片电阻0402-1K-1%"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ea81e3ad-ee5f-478b-9f74-af92a70fdddc")
@@ -26526,7 +26526,7 @@
 			)
 		)
 		(property "SCH_Show_Footprint" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "01f7b1cc-57af-43cc-b587-f34d086c27c4")
@@ -26538,7 +26538,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -26574,16 +26574,6 @@
 			(uuid "277ba87f-edbc-4582-b266-6dd9c08943b6")
 		)
 		(fp_line
-			(start -0.93 -0.47)
-			(end 0.93 -0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "227e56e9-ff83-476d-902a-6aaff18f752a")
-		)
-		(fp_line
 			(start -0.93 0.47)
 			(end -0.93 -0.47)
 			(stroke
@@ -26592,16 +26582,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "118423db-76f2-4bfe-ac9a-24ad0ed5d242")
-		)
-		(fp_line
-			(start 0.93 -0.47)
-			(end 0.93 0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9e607b5c-3d5b-42ec-9f00-4f1b10de55f0")
 		)
 		(fp_line
 			(start 0.93 0.47)
@@ -26614,14 +26594,24 @@
 			(uuid "2fbf9f35-d153-4ee6-bcb8-b241d5eed81e")
 		)
 		(fp_line
-			(start -0.525 -0.27)
-			(end 0.525 -0.27)
+			(start -0.93 -0.47)
+			(end 0.93 -0.47)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "cadabae0-0312-481b-b134-68b9fe3510ea")
+			(layer "F.CrtYd")
+			(uuid "227e56e9-ff83-476d-902a-6aaff18f752a")
+		)
+		(fp_line
+			(start 0.93 -0.47)
+			(end 0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9e607b5c-3d5b-42ec-9f00-4f1b10de55f0")
 		)
 		(fp_line
 			(start -0.525 0.27)
@@ -26634,16 +26624,6 @@
 			(uuid "a1691fce-5645-441d-968a-878aecc37c8e")
 		)
 		(fp_line
-			(start 0.525 -0.27)
-			(end 0.525 0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "01b04d58-f056-4ab1-b8e5-5da3988d1e4b")
-		)
-		(fp_line
 			(start 0.525 0.27)
 			(end -0.525 0.27)
 			(stroke
@@ -26653,8 +26633,28 @@
 			(layer "F.Fab")
 			(uuid "5cbc265d-b038-4c5d-bab1-f0540745fd68")
 		)
+		(fp_line
+			(start -0.525 -0.27)
+			(end 0.525 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "cadabae0-0312-481b-b134-68b9fe3510ea")
+		)
+		(fp_line
+			(start 0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "01b04d58-f056-4ab1-b8e5-5da3988d1e4b")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "e0451aee-e46a-403f-909b-9d30139a71d3")
 			(effects
@@ -26665,7 +26665,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0)
+			(at -0.51 0 270)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -26685,7 +26685,7 @@
 			(uuid "d0ff98f4-56d2-4f44-9ac9-4c48d7bd36b8")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0)
+			(at 0.51 0 270)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -26705,7 +26705,7 @@
 			(uuid "aad23e87-376e-43d3-a096-d8a7a68ad446")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26982,7 +26982,7 @@
 			(uuid "7c8f7771-f7aa-4e4a-81ba-a8fba2b89f80")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27250,7 +27250,7 @@
 			(uuid "9b691d8a-87ce-48f8-8766-e77221b7a609")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27265,7 +27265,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "4985d7eb-e0b8-416e-8268-f2703eff39f3")
-		(at 93.390001 82.693026)
+		(at 152.780001 51.243026)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R84"
@@ -27518,7 +27518,7 @@
 			(uuid "d47ffc79-07a9-4f56-9761-48a7302084a7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27905,7 +27905,7 @@
 			(uuid "33345ece-962d-4605-a896-a65c9293a42f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28615,7 +28615,7 @@
 			(uuid "b2133b69-14af-402e-b550-fb5f0547c148")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30075,7 +30075,7 @@
 			(uuid "5a1f39ab-d8fb-434f-8443-b0a3769b56a8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30352,7 +30352,7 @@
 			(uuid "02689ada-c9b5-49ca-bf16-b9d103ef4611")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30629,7 +30629,7 @@
 			(uuid "28eae4a6-d88a-4a22-9538-f2dcf72f83a6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30802,7 +30802,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "51899fd2-ebbd-4ca0-ba39-28202ff88d28")
-		(at 93.390001 74.733026)
+		(at 152.780001 48.243026 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
@@ -30828,7 +30828,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -30840,7 +30840,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -30888,7 +30888,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -30924,24 +30924,14 @@
 			(uuid "42747de4-f722-4ebe-b014-6f74bca7e198")
 		)
 		(fp_line
-			(start -0.93 -0.47)
-			(end 0.93 -0.47)
+			(start 0.93 0.47)
+			(end -0.93 0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "dc97e15d-b422-4100-8dff-ae3959517664")
-		)
-		(fp_line
-			(start -0.93 0.47)
-			(end -0.93 -0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "cf0b6f90-9c91-443f-a6e0-14e2e4c04bfd")
+			(uuid "3e3f84a7-2115-4597-a21d-f7d65094caeb")
 		)
 		(fp_line
 			(start 0.93 -0.47)
@@ -30954,34 +30944,34 @@
 			(uuid "1d7a2627-2541-4485-87cc-2adcb3bff00a")
 		)
 		(fp_line
-			(start 0.93 0.47)
-			(end -0.93 0.47)
+			(start -0.93 0.47)
+			(end -0.93 -0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3e3f84a7-2115-4597-a21d-f7d65094caeb")
+			(uuid "cf0b6f90-9c91-443f-a6e0-14e2e4c04bfd")
 		)
 		(fp_line
-			(start -0.525 -0.27)
-			(end 0.525 -0.27)
+			(start -0.93 -0.47)
+			(end 0.93 -0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "dc97e15d-b422-4100-8dff-ae3959517664")
+		)
+		(fp_line
+			(start 0.525 0.27)
+			(end -0.525 0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f6a80a00-53c6-4535-aae2-d20a9a93b9ea")
-		)
-		(fp_line
-			(start -0.525 0.27)
-			(end -0.525 -0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e4077a5a-827b-484f-9bd2-374aff8622ce")
+			(uuid "f6e0bc75-ddc3-4aba-9bff-093814563859")
 		)
 		(fp_line
 			(start 0.525 -0.27)
@@ -30994,14 +30984,24 @@
 			(uuid "d9726d88-dcc8-4649-bcb1-2c281340c80c")
 		)
 		(fp_line
-			(start 0.525 0.27)
-			(end -0.525 0.27)
+			(start -0.525 0.27)
+			(end -0.525 -0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f6e0bc75-ddc3-4aba-9bff-093814563859")
+			(uuid "e4077a5a-827b-484f-9bd2-374aff8622ce")
+		)
+		(fp_line
+			(start -0.525 -0.27)
+			(end 0.525 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f6a80a00-53c6-4535-aae2-d20a9a93b9ea")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -31015,7 +31015,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0)
+			(at -0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -31035,7 +31035,7 @@
 			(uuid "fb06e05d-89b7-41ca-9982-c7239a92f036")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0)
+			(at 0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -31055,7 +31055,7 @@
 			(uuid "2476b9fb-c84b-4c09-99be-2c66c5169606")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31332,7 +31332,7 @@
 			(uuid "026f5cfe-2779-425e-b732-9096244178ed")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31609,7 +31609,7 @@
 			(uuid "a8fac8f4-989e-45a7-b1b6-4ad3142f63b8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31939,7 +31939,7 @@
 			(uuid "09c9bff8-bad0-4bb3-b10c-3b1a5b442bb0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32572,7 +32572,7 @@
 			(uuid "d295fe90-cfe5-4cc0-bf90-f53da64c94d9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32840,7 +32840,7 @@
 			(uuid "d5b63b8f-f209-4681-8137-be0247d208a6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33117,7 +33117,7 @@
 			(uuid "493a14f4-eb4f-443d-99ed-eedecf31bcce")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34114,7 +34114,7 @@
 			(uuid "5002cd71-eb24-40c3-87a5-abee0dec1d6f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34569,7 +34569,7 @@
 			(uuid "c0bc3421-f2ec-4108-b332-4dd1b1abe378")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34837,7 +34837,7 @@
 			(uuid "3409cba8-1b4f-46c3-8df1-3abf6451c1e8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35105,7 +35105,7 @@
 			(uuid "a181f38c-891a-4392-b830-6af04b64ac9f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35382,7 +35382,7 @@
 			(uuid "6509ee2a-61f1-437a-a300-830a80a65040")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35659,7 +35659,7 @@
 			(uuid "67bb3b79-8cb2-4c66-baa3-b29115a66f8a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35936,7 +35936,7 @@
 			(uuid "1fd772a2-68ef-4074-90ee-affea5aefa54")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36213,7 +36213,7 @@
 			(uuid "4e2214ee-c586-42bb-8065-e0d4c60f33a5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38128,7 +38128,7 @@
 			(uuid "db4a6ee0-89d9-4f96-80a4-6ebcf9dfdbe9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38715,7 +38715,7 @@
 			(uuid "569e6db5-0b2f-4558-b788-299c32f632e3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39111,7 +39111,7 @@
 			(uuid "3ba702fe-f166-4b16-9cb9-c49f30bbbb9f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39408,7 +39408,7 @@
 			(uuid "4f352d28-09ad-4255-8152-8c365b520ff5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39633,7 +39633,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "6e6348b2-6c39-4290-a5f7-c4ce75f10a42")
-		(at 96.300001 74.733026)
+		(at 152.790001 55.743026)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R86"
@@ -39648,7 +39648,7 @@
 			)
 		)
 		(property "Value" "0R/1%"
-			(at 0 1.17 0)
+			(at 14 14.67 0)
 			(layer "F.Fab")
 			(uuid "b9af0cbc-9e9a-476d-9b02-0c83dc3d54d8")
 			(effects
@@ -39886,7 +39886,7 @@
 			(uuid "41dee2f5-bccd-4f71-97c6-c71702040bea")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40904,7 +40904,7 @@
 			(uuid "f8948172-7833-4156-a521-2cfd5a77b4ee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41494,7 +41494,7 @@
 			(uuid "5420c481-27e9-446a-b25d-0525c6ee770f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41762,7 +41762,7 @@
 			(uuid "404c6df5-08bc-47b7-b124-29f15845ecc8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42830,7 +42830,7 @@
 			(uuid "3ca8c5d0-5e26-4a53-b18c-a1a1503bcfc3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43491,7 +43491,7 @@
 			(uuid "503332d3-487e-4dc2-99ab-371568c6c6a0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44267,7 +44267,7 @@
 			(uuid "b39f9934-4380-4b31-b2ab-ac3961b587ba")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44544,7 +44544,7 @@
 			(uuid "c7d4a7dc-9b24-437f-bf99-bddce273b2b7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44921,7 +44921,7 @@
 			(uuid "d86d3c94-8a56-40fc-a77b-14d8918af219")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45198,7 +45198,7 @@
 			(uuid "30b54e89-a145-4671-8ebb-b4be37a4535e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45466,7 +45466,7 @@
 			(uuid "d247912a-b619-4339-b297-7b219031fafd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45743,7 +45743,7 @@
 			(uuid "c1dbd54c-a74b-4608-86c5-4e1b57904e33")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46505,11 +46505,11 @@
 	(footprint "A_HDJ_Library:Battery_Holder_CR1220_S8411-45R"
 		(layer "F.Cu")
 		(uuid "86eae970-8055-4338-9f0d-45f5dfc873d6")
-		(at 233.100001 102.743026 90)
+		(at 111.800001 108.043026)
 		(descr "S8411-45R_1")
 		(tags "Connector")
 		(property "Reference" "BT1"
-			(at 2.36 9.65 0)
+			(at 2.36 9.65 90)
 			(layer "F.SilkS")
 			(uuid "895c84bf-974e-4f99-a7fc-8ec8c25446e9")
 			(effects
@@ -46520,7 +46520,7 @@
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at -0.412 -0.096 90)
+			(at -0.412 -0.096 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "013c8d42-d11d-47fc-af7a-77e66219cdab")
@@ -46532,7 +46532,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46544,7 +46544,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46556,7 +46556,7 @@
 			)
 		)
 		(property "Buy_Link" "https://item.szlcsc.com/1049689.html"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5b34e156-b16d-41a8-b141-7deda51568ba")
@@ -46568,7 +46568,7 @@
 			)
 		)
 		(property "DF_Comment" "CR1220电池座贴片塑料"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d945e07-1408-4c19-aafe-77127b162832")
@@ -46580,7 +46580,7 @@
 			)
 		)
 		(property "SCH_Show_Footprint" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "11abae43-6cef-4b9a-b58f-8d6f29fa2c5d")
@@ -46592,7 +46592,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46616,16 +46616,6 @@
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 6.832 6.625)
-			(end 3.296 6.625)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "193beb5a-9abf-42bb-807f-304dce0092f2")
-		)
-		(fp_line
 			(start -6.832 6.625)
 			(end -3.27 6.625)
 			(stroke
@@ -46634,26 +46624,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "546f1931-3f4a-48ff-98d2-1be45a401d7c")
-		)
-		(fp_line
-			(start 6.832 8.307)
-			(end 6.832 6.625)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "9b06ec26-3dd9-4da9-bc5d-de935209baba")
-		)
-		(fp_line
-			(start 6.832 8.307)
-			(end 1.49 8.307)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b1869a1f-e3bf-414f-9138-7d53bf978a7b")
 		)
 		(fp_line
 			(start -6.832 8.307)
@@ -46675,16 +46645,35 @@
 			(layer "F.SilkS")
 			(uuid "9417e733-6fed-41d2-913b-4a38bf34135a")
 		)
-		(fp_arc
-			(start 3.295287 -6.625787)
-			(mid 7.399995 -0.000884)
-			(end 3.29687 6.625)
+		(fp_line
+			(start 6.832 6.625)
+			(end 3.296 6.625)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dad805ea-199b-413a-b05d-ef126845e56f")
+			(uuid "193beb5a-9abf-42bb-807f-304dce0092f2")
+		)
+		(fp_line
+			(start 6.832 8.307)
+			(end 1.49 8.307)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b1869a1f-e3bf-414f-9138-7d53bf978a7b")
+		)
+		(fp_line
+			(start 6.832 8.307)
+			(end 6.832 6.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9b06ec26-3dd9-4da9-bc5d-de935209baba")
 		)
 		(fp_arc
 			(start -3.295295 6.625783)
@@ -46697,25 +46686,16 @@
 			(layer "F.SilkS")
 			(uuid "8b64e796-ba9a-499e-912c-00c8793dc581")
 		)
-		(fp_line
-			(start 6.832 6.625)
-			(end 3.27 6.625)
+		(fp_arc
+			(start 3.295287 -6.625787)
+			(mid 7.399995 -0.000884)
+			(end 3.29687 6.625)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "fff118fc-70ee-49b9-b0fb-620032fe8048")
-		)
-		(fp_line
-			(start -3.29687 6.625)
-			(end -6.832 6.625)
-			(stroke
-				(width 0.2)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "f374fc22-6335-4e7a-87dc-cc0e20fa9b00")
+			(layer "F.SilkS")
+			(uuid "dad805ea-199b-413a-b05d-ef126845e56f")
 		)
 		(fp_line
 			(start -6.832 6.625)
@@ -46728,16 +46708,6 @@
 			(uuid "a3e14e81-ba82-4a97-91d7-3caecc0c6cb5")
 		)
 		(fp_line
-			(start 6.832 8.307)
-			(end 6.832 6.625)
-			(stroke
-				(width 0.2)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1607b191-0747-499d-ae12-dfc55523c44d")
-		)
-		(fp_line
 			(start -6.832 8.307)
 			(end 6.832 8.307)
 			(stroke
@@ -46746,6 +46716,36 @@
 			)
 			(layer "F.Fab")
 			(uuid "c5c100c7-c72f-4307-b667-7177f7288828")
+		)
+		(fp_line
+			(start -3.29687 6.625)
+			(end -6.832 6.625)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f374fc22-6335-4e7a-87dc-cc0e20fa9b00")
+		)
+		(fp_line
+			(start 6.832 6.625)
+			(end 3.27 6.625)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "fff118fc-70ee-49b9-b0fb-620032fe8048")
+		)
+		(fp_line
+			(start 6.832 8.307)
+			(end 6.832 6.625)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1607b191-0747-499d-ae12-dfc55523c44d")
 		)
 		(fp_circle
 			(center 0 0)
@@ -46759,7 +46759,7 @@
 			(uuid "e36cafe3-fbb8-409d-87d5-e572b18aff6c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.412 -0.096 90)
+			(at -0.412 -0.096 0)
 			(layer "F.Fab")
 			(uuid "e67442d8-6e99-4d16-bee3-7c529ef0a0c6")
 			(effects
@@ -46770,21 +46770,21 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at 0 -3.725 90)
+			(at 0 -3.725)
 			(size 1.05 1.05)
 			(drill 1.05)
 			(layers "*.Cu" "*.Mask")
 			(uuid "935f2252-1c6a-4dbf-b5ef-ce82a01d2f06")
 		)
 		(pad "" np_thru_hole circle
-			(at 0 3.725 90)
+			(at 0 3.725)
 			(size 1.3 1.3)
 			(drill 1.3)
 			(layers "*.Cu" "*.Mask")
 			(uuid "69840906-9848-4d61-a62c-e03d57188800")
 		)
 		(pad "1" smd rect
-			(at 0 8.2 90)
+			(at 0 8.2)
 			(size 2.3 4.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(BT1-+)")
@@ -46804,7 +46804,7 @@
 			(uuid "c1fc5320-3f2b-434f-88f5-758a953194af")
 		)
 		(pad "2" smd rect
-			(at 0 -8.2 90)
+			(at 0 -8.2)
 			(size 2.3 4.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
@@ -47101,7 +47101,7 @@
 			(uuid "32615871-7921-4759-9262-1b8d7da0a48a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47378,7 +47378,7 @@
 			(uuid "a27a5e4e-dccf-4e83-b04e-00d824ab1d99")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48221,7 +48221,7 @@
 			(uuid "27a40232-1dcc-4487-9ace-8c31a18cbc5e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48489,7 +48489,7 @@
 			(uuid "f0060155-8161-4f4f-85e0-f730a0977085")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48928,7 +48928,7 @@
 			(uuid "bc0e4b62-d18e-4d5e-9843-28ad4838e8c4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49332,7 +49332,7 @@
 			(uuid "b4fe9e97-47c8-4265-b737-0fa033151de6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50264,7 +50264,7 @@
 	(footprint "USB2517-JZX:QFN50P900X900X100-65N"
 		(layer "F.Cu")
 		(uuid "953518cc-cbaa-401e-b2ba-8f06d9a8a2d6")
-		(at 38.705001 147.308026)
+		(at 93.050001 119.678026)
 		(property "Reference" "U14"
 			(at -2.235 -6.75 0)
 			(layer "F.SilkS")
@@ -51705,7 +51705,7 @@
 			(uuid "ad99c7ca-6c98-4b71-abf8-8981e51bf5f8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52109,7 +52109,7 @@
 			(uuid "11138552-a6e4-4fb0-91c6-2f25150c73d8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52438,7 +52438,7 @@
 			(uuid "b9f336be-c8eb-483e-9883-5301a72b7d43")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52715,7 +52715,7 @@
 			(uuid "9eb1f152-cce6-4450-b4fe-de565de456a3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54146,7 +54146,7 @@
 			(uuid "e5e478d4-7e23-4be9-b83d-48a700f07870")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54581,7 +54581,7 @@
 			(uuid "04262f2d-5782-4b9d-93c7-f99aa07696af")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -55492,7 +55492,7 @@
 			(uuid "7e7241a4-0083-4b75-b901-f6c6a7f2aee1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -55522,7 +55522,7 @@
 			)
 		)
 		(property "Value" "470R/1%"
-			(at 0 1.17 90)
+			(at 22 62.66 90)
 			(layer "F.Fab")
 			(uuid "25a314ec-e9fe-48c8-8b88-3ec6c9740d8b")
 			(effects
@@ -55760,7 +55760,7 @@
 			(uuid "cb0e65d7-7758-4a8e-b76f-9504aeaf9820")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -56195,7 +56195,7 @@
 			(uuid "c398cdd0-a7bb-4db2-8b14-95e31f4e5f71")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -56621,7 +56621,7 @@
 			(uuid "cdaef082-75ad-4556-9734-b3531da91545")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57056,7 +57056,7 @@
 			(uuid "dca9c3e5-4fd7-4606-8743-2184d2637f2f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57767,7 +57767,7 @@
 			(uuid "3163076e-34fd-4fd5-b710-30c84a393727")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -62513,7 +62513,7 @@
 			(uuid "007cdc96-6744-480f-9689-b119482e0a68")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -63377,7 +63377,7 @@
 			(uuid "b3697afb-518d-4213-a6fd-1f847df76938")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -65385,7 +65385,7 @@
 			(uuid "c0958512-a1b5-4068-9440-95d2ebd5c9f4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -65415,7 +65415,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 0 1.16 90)
+			(at -2 -0.515 90)
 			(layer "F.Fab")
 			(uuid "3cb05227-97b6-44c0-827a-7e74643b4003")
 			(effects
@@ -65662,7 +65662,7 @@
 			(uuid "664accbb-89cd-46d9-8d16-2076d311150c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -65930,7 +65930,7 @@
 			(uuid "c325d392-f65f-4649-bf96-09a3de2a6d76")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -66198,7 +66198,7 @@
 			(uuid "41f229bc-431c-41fc-adc2-016737691a08")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -67658,7 +67658,7 @@
 			(uuid "6fc165d0-68d1-466e-95ca-187e9a354c3c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -67899,7 +67899,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "babc0b81-ca58-49b8-9dfd-3f88f734f723")
-		(at 96.300001 72.743026)
+		(at 152.790001 54.243026)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R85"
@@ -67914,7 +67914,7 @@
 			)
 		)
 		(property "Value" "0R/1%"
-			(at 0 1.17 0)
+			(at 14 14.67 0)
 			(layer "F.Fab")
 			(uuid "cf94d7b3-35c5-42c6-87c3-43c00948a855")
 			(effects
@@ -68152,7 +68152,7 @@
 			(uuid "f1c50480-3e0a-434a-983b-2977a0f1468c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -68482,7 +68482,7 @@
 			(uuid "3d6e4265-725d-4645-ad31-3f253851fd09")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -68889,7 +68889,7 @@
 			(uuid "03cc488b-d793-496e-9f4f-1c30e1d18981")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -69166,7 +69166,7 @@
 			(uuid "fa77f287-8bd8-4a9e-a0a4-31d0f3960b1b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -69196,7 +69196,7 @@
 			)
 		)
 		(property "Value" "470R/1%"
-			(at 0 1.17 90)
+			(at 22 62.66 90)
 			(layer "F.Fab")
 			(uuid "c78e4109-d129-4bb8-a99b-e75d190a007d")
 			(effects
@@ -69434,7 +69434,7 @@
 			(uuid "b5e696a7-1ace-4263-b74d-8a5e5749c521")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -70456,7 +70456,7 @@
 			(uuid "fb0cbd13-965c-438b-afb6-af1a133cca57")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -71013,7 +71013,7 @@
 	(footprint "A_HDJ_Library:TestPoint_Pad_D1.5mm"
 		(layer "F.Cu")
 		(uuid "c2dd1a30-6dc6-47a7-bbda-e7a1ab87f004")
-		(at 103.695001 80.528026)
+		(at 150.290001 46.743026)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP7"
@@ -71474,7 +71474,7 @@
 			(uuid "cc34a2e0-2050-48ab-a6c1-b52c72263e8f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -71751,7 +71751,7 @@
 			(uuid "24201e33-013e-4f79-9760-7df218a14a41")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -72556,7 +72556,7 @@
 			(uuid "41dc7086-abbc-4d26-af33-968264f0c294")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -72833,7 +72833,7 @@
 			(uuid "dbf0db93-a049-49d8-a82a-c279898fe7ee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -73259,7 +73259,7 @@
 			(uuid "6543a05e-1a83-4afc-97c1-b134b76d0080")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -73536,7 +73536,7 @@
 			(uuid "8e96a245-df66-4676-b997-181537dc5d0f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -73804,7 +73804,7 @@
 			(uuid "7a5ae8cc-988c-4936-a778-09766569303b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -74867,7 +74867,7 @@
 			(uuid "d4ff6121-2bf9-4414-8170-b4936d03dac4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -75144,7 +75144,7 @@
 			(uuid "994b972f-e615-4e77-9301-b51f8db203b9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -75570,7 +75570,7 @@
 			(uuid "9960dbe8-fe3f-4725-b49f-d2ca9b1ac1fc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -75838,7 +75838,7 @@
 			(uuid "7d8e21bd-8073-4102-a427-2e22e2735f12")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -75972,7 +75972,7 @@
 	(footprint "A_HDJ_Library:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "cf59f1e5-81c7-4bf3-be3b-04174fd866f5")
-		(at 223.497057 87.440082)
+		(at 242.900001 78.743026)
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
 		(property "Reference" "H4"
@@ -76923,7 +76923,7 @@
 			(uuid "9c5b2dc1-d2e9-4976-ad32-cae25ebe394b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -77445,7 +77445,7 @@
 			(uuid "2a399851-8b5b-427d-af81-10a97ec43e54")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -77722,7 +77722,7 @@
 			(uuid "da20374c-6248-4cd6-b5e8-b5a6d2c60cf5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -78148,7 +78148,7 @@
 			(uuid "7ddfd16d-3cb4-437c-b406-29cee7fd19b5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -78574,7 +78574,7 @@
 			(uuid "7016be38-d9aa-4abb-a051-8f498ccdd415")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -79167,7 +79167,7 @@
 			(uuid "89583535-f47c-4cb3-916d-eb789bf274be")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -80465,7 +80465,7 @@
 			(uuid "f50d550d-4065-4d1c-b45b-86349caf5697")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -80690,7 +80690,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "dede517d-f3a3-4eec-8d17-b181c226b8ae")
-		(at 93.390001 78.713026)
+		(at 107.390001 92.213026)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R77"
@@ -80943,7 +80943,7 @@
 			(uuid "cc84213d-88a5-4ae1-891f-eaa0369f7141")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -81831,7 +81831,7 @@
 			(uuid "f2c4f2b1-de35-40ae-a7ae-46541a5b7ae6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -82004,7 +82004,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e37c9a2c-d25b-4cef-b064-57a2baed5b79")
-		(at 114.080001 138.263026 90)
+		(at 115.300001 138.753026 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R72"
@@ -82030,7 +82030,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -82042,7 +82042,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -82090,7 +82090,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -82126,24 +82126,14 @@
 			(uuid "72d16ebc-ced1-4506-b746-01b69f193a30")
 		)
 		(fp_line
-			(start 0.93 -0.47)
-			(end 0.93 0.47)
+			(start -0.93 0.47)
+			(end -0.93 -0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "96dcbab4-05a2-468f-a43d-36ce44cc7271")
-		)
-		(fp_line
-			(start -0.93 -0.47)
-			(end 0.93 -0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "11c93059-749a-47f1-855c-89c7baa5733a")
+			(uuid "ec535ac3-b475-4cc8-b382-3f714b9e2427")
 		)
 		(fp_line
 			(start 0.93 0.47)
@@ -82156,34 +82146,34 @@
 			(uuid "8b60db14-dced-465d-b4e3-5350265a9313")
 		)
 		(fp_line
-			(start -0.93 0.47)
-			(end -0.93 -0.47)
+			(start -0.93 -0.47)
+			(end 0.93 -0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ec535ac3-b475-4cc8-b382-3f714b9e2427")
+			(uuid "11c93059-749a-47f1-855c-89c7baa5733a")
 		)
 		(fp_line
-			(start 0.525 -0.27)
-			(end 0.525 0.27)
+			(start 0.93 -0.47)
+			(end 0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "96dcbab4-05a2-468f-a43d-36ce44cc7271")
+		)
+		(fp_line
+			(start -0.525 0.27)
+			(end -0.525 -0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "596c5861-9e6b-4f94-a271-efde3b7fdd96")
-		)
-		(fp_line
-			(start -0.525 -0.27)
-			(end 0.525 -0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "4f9dd676-8c23-4026-9ad3-ddce157de2bf")
+			(uuid "c121db9c-f7f0-4794-8738-0e477ff7b238")
 		)
 		(fp_line
 			(start 0.525 0.27)
@@ -82196,14 +82186,24 @@
 			(uuid "63ceb701-319e-471d-af04-51a19b393cd7")
 		)
 		(fp_line
-			(start -0.525 0.27)
-			(end -0.525 -0.27)
+			(start -0.525 -0.27)
+			(end 0.525 -0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c121db9c-f7f0-4794-8738-0e477ff7b238")
+			(uuid "4f9dd676-8c23-4026-9ad3-ddce157de2bf")
+		)
+		(fp_line
+			(start 0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "596c5861-9e6b-4f94-a271-efde3b7fdd96")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -82217,7 +82217,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0 90)
+			(at -0.51 0 270)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -82237,7 +82237,7 @@
 			(uuid "b7febf2e-ce42-4051-9a38-754d55d664fe")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0 90)
+			(at 0.51 0 270)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -82257,7 +82257,7 @@
 			(uuid "5c5e3821-ce68-48bc-bd3c-3faaf353399c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -82272,7 +82272,7 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e43138ca-da8d-42a5-b4c4-2c0d9e8de30c")
-		(at 96.300001 78.713026)
+		(at 139.300001 53.243026 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R88"
@@ -82298,7 +82298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -82310,7 +82310,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -82358,7 +82358,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -82394,24 +82394,14 @@
 			(uuid "e623f677-7c66-436e-bbf5-fcacd7c6a494")
 		)
 		(fp_line
-			(start -0.93 -0.47)
-			(end 0.93 -0.47)
+			(start 0.93 0.47)
+			(end -0.93 0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "605bc8d7-7b67-46ae-a042-5e11311d3f50")
-		)
-		(fp_line
-			(start -0.93 0.47)
-			(end -0.93 -0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7120d737-3e44-456d-9822-0517e969b56c")
+			(uuid "3db93234-767a-4cc9-b50f-363679d57032")
 		)
 		(fp_line
 			(start 0.93 -0.47)
@@ -82424,34 +82414,34 @@
 			(uuid "6190788f-1306-4849-bb9f-ceafe7386ea9")
 		)
 		(fp_line
-			(start 0.93 0.47)
-			(end -0.93 0.47)
+			(start -0.93 0.47)
+			(end -0.93 -0.47)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3db93234-767a-4cc9-b50f-363679d57032")
+			(uuid "7120d737-3e44-456d-9822-0517e969b56c")
 		)
 		(fp_line
-			(start -0.525 -0.27)
-			(end 0.525 -0.27)
+			(start -0.93 -0.47)
+			(end 0.93 -0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "605bc8d7-7b67-46ae-a042-5e11311d3f50")
+		)
+		(fp_line
+			(start 0.525 0.27)
+			(end -0.525 0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0b2bf676-5f31-42d9-9bbb-252536aac0da")
-		)
-		(fp_line
-			(start -0.525 0.27)
-			(end -0.525 -0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "4a0102f5-9a43-4dfb-8f8f-5036aecea50e")
+			(uuid "cf77a9fb-e857-4b67-afe5-c0beeae4bbfe")
 		)
 		(fp_line
 			(start 0.525 -0.27)
@@ -82464,14 +82454,24 @@
 			(uuid "8932b99d-72cf-4278-858e-2b5b2173daa6")
 		)
 		(fp_line
-			(start 0.525 0.27)
-			(end -0.525 0.27)
+			(start -0.525 0.27)
+			(end -0.525 -0.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cf77a9fb-e857-4b67-afe5-c0beeae4bbfe")
+			(uuid "4a0102f5-9a43-4dfb-8f8f-5036aecea50e")
+		)
+		(fp_line
+			(start -0.525 -0.27)
+			(end 0.525 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "0b2bf676-5f31-42d9-9bbb-252536aac0da")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -82485,7 +82485,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0)
+			(at -0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -82505,7 +82505,7 @@
 			(uuid "5f206ead-293b-4071-ab58-dd627ea44aaa")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0)
+			(at 0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -82525,7 +82525,7 @@
 			(uuid "f7338ae9-1fc7-4d20-ab68-c2248e134417")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -82793,7 +82793,7 @@
 			(uuid "e2871881-abb5-4f52-8cb8-4b87d6c952ad")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -83070,7 +83070,7 @@
 			(uuid "5013751c-ede7-4cce-8bc3-07203a3ac011")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -85049,7 +85049,7 @@
 			(uuid "02631eab-746c-42ed-b676-7adab5d37247")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -85497,11 +85497,11 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e8fcfe22-b445-4a1f-9f39-c935511f6f92")
-		(at 108.110001 138.263026 90)
+		(at 108.110001 138.263026)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R66"
-			(at -1.820261 -0.955 90)
+			(at -1.820261 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "cacc303d-9ca0-4661-a531-45a9fdcead4e")
 			(effects
@@ -85512,7 +85512,7 @@
 			)
 		)
 		(property "Value" "21.5K/1%"
-			(at 0 1.17 90)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "849a3228-31a0-4f2b-a83b-03a213a2234c")
 			(effects
@@ -85523,7 +85523,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -85535,7 +85535,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -85547,7 +85547,7 @@
 			)
 		)
 		(property "Buy_Link" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "19858de5-902c-484e-b238-fb547f45b3d4")
@@ -85559,7 +85559,7 @@
 			)
 		)
 		(property "DF_Comment" "贴片电阻0402-21.5K-1%"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f947dc4b-3b27-4305-8e30-9f2cb46293b3")
@@ -85571,7 +85571,7 @@
 			)
 		)
 		(property "SCH_Show_Footprint" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a367484f-45d2-4b98-8f61-098a36d6fc20")
@@ -85583,7 +85583,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -85619,16 +85619,6 @@
 			(uuid "0004965c-38e9-440e-a4c2-6b1223ee9646")
 		)
 		(fp_line
-			(start 0.93 -0.47)
-			(end 0.93 0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "2151190d-a03e-45c4-8d00-28949e67ebac")
-		)
-		(fp_line
 			(start -0.93 -0.47)
 			(end 0.93 -0.47)
 			(stroke
@@ -85637,16 +85627,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "889d02f3-a475-4342-9ec6-148b2465bfca")
-		)
-		(fp_line
-			(start 0.93 0.47)
-			(end -0.93 0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4e3b6f41-07bd-4998-9435-690bfc4306e8")
 		)
 		(fp_line
 			(start -0.93 0.47)
@@ -85659,14 +85639,24 @@
 			(uuid "08050d49-57c7-4dfc-ade5-82ac76532337")
 		)
 		(fp_line
-			(start 0.525 -0.27)
-			(end 0.525 0.27)
+			(start 0.93 -0.47)
+			(end 0.93 0.47)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "77c6a319-1ca8-4880-92cb-6e61979e9d6a")
+			(layer "F.CrtYd")
+			(uuid "2151190d-a03e-45c4-8d00-28949e67ebac")
+		)
+		(fp_line
+			(start 0.93 0.47)
+			(end -0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4e3b6f41-07bd-4998-9435-690bfc4306e8")
 		)
 		(fp_line
 			(start -0.525 -0.27)
@@ -85679,16 +85669,6 @@
 			(uuid "33174f56-f6fd-47b6-baaa-ddd66ff0dea5")
 		)
 		(fp_line
-			(start 0.525 0.27)
-			(end -0.525 0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "275793ef-a5de-44b4-b900-86565d60c94c")
-		)
-		(fp_line
 			(start -0.525 0.27)
 			(end -0.525 -0.27)
 			(stroke
@@ -85698,8 +85678,28 @@
 			(layer "F.Fab")
 			(uuid "54d105a5-6622-4194-9d92-ff5eb56b5a0b")
 		)
+		(fp_line
+			(start 0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "77c6a319-1ca8-4880-92cb-6e61979e9d6a")
+		)
+		(fp_line
+			(start 0.525 0.27)
+			(end -0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "275793ef-a5de-44b4-b900-86565d60c94c")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "243c72c0-5481-4069-b94c-134d340715b3")
 			(effects
@@ -85710,7 +85710,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0 90)
+			(at -0.51 0)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -85730,7 +85730,7 @@
 			(uuid "0fa5be46-e290-4981-b688-e26e30008765")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0 90)
+			(at 0.51 0)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -85750,7 +85750,7 @@
 			(uuid "f1058b1d-d2c8-4aa4-9f1f-06a0294a1bfb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -85923,7 +85923,7 @@
 	(footprint "A_HDJ_Library:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ea89c3a3-c1b6-469a-b9ae-49d4f89be168")
-		(at 109.060001 131.823026 90)
+		(at 114.800001 135.243026 90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C84"
@@ -86185,7 +86185,7 @@
 			(uuid "531bd424-2a53-4a9a-8e5e-f93f9485ec28")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -86611,7 +86611,7 @@
 			(uuid "6ccb3441-486a-4768-8ca8-29e91509f5cf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -86879,7 +86879,7 @@
 			(uuid "dd3223b9-4656-4741-9fe3-76cd100b73c6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -87147,7 +87147,7 @@
 			(uuid "e1f4214a-f503-47ba-8cb0-0a459f64f952")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -87867,7 +87867,7 @@
 			(uuid "a3f5fbfa-121f-4c9f-927c-87bfe630ca1d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -88354,7 +88354,7 @@
 			(uuid "bcdd0606-1758-4306-8a1a-e57116e569c7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -88369,11 +88369,11 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "f23ae2ef-924c-44c0-bc68-0bcc78ce7392")
-		(at 106.120001 138.263026 90)
+		(at 110.810001 132.243026 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R64"
-			(at -1.820261 -0.955 90)
+			(at -1.820261 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "6b5e9240-c2c8-43b4-9e5d-5c5d2802ae86")
 			(effects
@@ -88384,7 +88384,7 @@
 			)
 		)
 		(property "Value" "4.7K/1%"
-			(at 0 1.17 90)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "6c7b03fc-7595-4617-b5eb-3817cf0e58a4")
 			(effects
@@ -88395,7 +88395,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -88407,7 +88407,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -88419,7 +88419,7 @@
 			)
 		)
 		(property "Buy_Link" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75cd07b5-d60d-4b74-a667-4bebf7b49c23")
@@ -88431,7 +88431,7 @@
 			)
 		)
 		(property "DF_Comment" "贴片电阻0402-4.7K-1%"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cdb81e9b-d6af-47e6-9dbd-9875c0af1652")
@@ -88443,7 +88443,7 @@
 			)
 		)
 		(property "SCH_Show_Footprint" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "013e7eee-c1b4-4b8c-beb1-540641022c33")
@@ -88455,7 +88455,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 90)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -88491,26 +88491,6 @@
 			(uuid "1e043223-8e91-48e6-bd7d-960d121f5697")
 		)
 		(fp_line
-			(start 0.93 -0.47)
-			(end 0.93 0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "56923068-423a-46ad-ac0c-94da3324bc9e")
-		)
-		(fp_line
-			(start -0.93 -0.47)
-			(end 0.93 -0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "36693415-9863-4a21-9da3-2056dfb9bde2")
-		)
-		(fp_line
 			(start 0.93 0.47)
 			(end -0.93 0.47)
 			(stroke
@@ -88519,6 +88499,16 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "8cfbf037-2821-4bca-9a24-e3b81200f4ef")
+		)
+		(fp_line
+			(start 0.93 -0.47)
+			(end 0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "56923068-423a-46ad-ac0c-94da3324bc9e")
 		)
 		(fp_line
 			(start -0.93 0.47)
@@ -88531,24 +88521,14 @@
 			(uuid "d7915fb8-f424-4a86-b0e9-0103718a7b18")
 		)
 		(fp_line
-			(start 0.525 -0.27)
-			(end 0.525 0.27)
+			(start -0.93 -0.47)
+			(end 0.93 -0.47)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "6528a6d3-6188-4733-8132-3c3d01d56fa0")
-		)
-		(fp_line
-			(start -0.525 -0.27)
-			(end 0.525 -0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1b097865-837f-4853-9e14-b9fbf812bf94")
+			(layer "F.CrtYd")
+			(uuid "36693415-9863-4a21-9da3-2056dfb9bde2")
 		)
 		(fp_line
 			(start 0.525 0.27)
@@ -88561,6 +88541,16 @@
 			(uuid "5d88cd0c-caa3-42b6-a636-a7445c1172ca")
 		)
 		(fp_line
+			(start 0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6528a6d3-6188-4733-8132-3c3d01d56fa0")
+		)
+		(fp_line
 			(start -0.525 0.27)
 			(end -0.525 -0.27)
 			(stroke
@@ -88570,8 +88560,18 @@
 			(layer "F.Fab")
 			(uuid "c49f01eb-6750-47de-8e02-b17aeaa3a256")
 		)
+		(fp_line
+			(start -0.525 -0.27)
+			(end 0.525 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1b097865-837f-4853-9e14-b9fbf812bf94")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "caba8de7-31d0-41d6-a52d-3b6325a50d03")
 			(effects
@@ -88582,7 +88582,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0 90)
+			(at -0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -88602,7 +88602,7 @@
 			(uuid "f299c70b-d477-432e-9d93-ccc90b8e5d98")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0 90)
+			(at 0.51 0 180)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -88622,7 +88622,7 @@
 			(uuid "4b58d552-c109-4dd5-94c0-fd751b851d5d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -89020,7 +89020,7 @@
 			(uuid "f6d15ab3-b511-4d1a-9802-9315603de5e8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -89297,7 +89297,7 @@
 			(uuid "8d873e77-f85b-4d10-b599-1ac0948c065d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -89565,7 +89565,7 @@
 			(uuid "66661b6b-fa40-4c6e-8512-709f323bb066")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -89833,7 +89833,7 @@
 			(uuid "a63f1f4f-c2f7-4556-86b4-bcc810612cb1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -90101,7 +90101,7 @@
 			(uuid "c3808c3c-e582-4155-965a-214296c7c0da")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -90378,7 +90378,7 @@
 			(uuid "90b6c6d1-9004-4159-b5a5-69b36b007742")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -90646,7 +90646,7 @@
 			(uuid "6e07eb17-a415-478f-a81c-cf9764052a11")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -91121,7 +91121,7 @@
 			(uuid "3a223544-724a-46da-b6b9-0f07c19f4d0e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWPA4020S.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWPA4020S.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -91398,7 +91398,7 @@
 			(uuid "e92ca169-e426-4429-9b5c-d4127f007416")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -91666,7 +91666,7 @@
 			(uuid "915d22f9-30f4-48d5-86d7-15467bdc83c6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -91934,7 +91934,7 @@
 			(uuid "997db41b-0d8d-402e-84af-c403e5659a85")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -91949,11 +91949,11 @@
 	(footprint "A_HDJ_Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ffa74ad1-ea0c-4259-b581-a754af390ea7")
-		(at 112.090001 138.263026 90)
+		(at 111.810001 138.243026)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R69"
-			(at -1.820261 -0.955 90)
+			(at -1.820261 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "0262e773-4e2c-4389-8426-43872415fd2f")
 			(effects
@@ -91964,7 +91964,7 @@
 			)
 		)
 		(property "Value" "100R/1%"
-			(at 0 1.17 90)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "4750a842-7f8e-4c96-aead-f2ccf62d3567")
 			(effects
@@ -91975,7 +91975,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -91987,7 +91987,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -91999,7 +91999,7 @@
 			)
 		)
 		(property "Buy_Link" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "30153e34-ba6c-4af9-b390-730861949be3")
@@ -92011,7 +92011,7 @@
 			)
 		)
 		(property "DF_Comment" "贴片电阻0402-100R-1%"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3e01e5ef-427f-495a-99eb-7ab0791ee1f4")
@@ -92023,7 +92023,7 @@
 			)
 		)
 		(property "SCH_Show_Footprint" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2425d237-fddd-43a6-bc69-4b0acaf6f4ae")
@@ -92035,7 +92035,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -92071,16 +92071,6 @@
 			(uuid "01b5b811-482e-42f9-ba51-9532cb24d0dc")
 		)
 		(fp_line
-			(start 0.93 -0.47)
-			(end 0.93 0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "3edb57e0-36fb-411a-bd5c-09ca46714be7")
-		)
-		(fp_line
 			(start -0.93 -0.47)
 			(end 0.93 -0.47)
 			(stroke
@@ -92089,16 +92079,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "6f6c08d9-719b-47c2-a36c-65bc1b7f2d39")
-		)
-		(fp_line
-			(start 0.93 0.47)
-			(end -0.93 0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b4e258d9-67ce-4f39-a654-a5a24e0b8d45")
 		)
 		(fp_line
 			(start -0.93 0.47)
@@ -92111,14 +92091,24 @@
 			(uuid "c20ffa94-1c72-45b3-a8d3-fe94b7d859c8")
 		)
 		(fp_line
-			(start 0.525 -0.27)
-			(end 0.525 0.27)
+			(start 0.93 -0.47)
+			(end 0.93 0.47)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "99eaca37-91fe-4ee8-bcdf-b70d791b06a7")
+			(layer "F.CrtYd")
+			(uuid "3edb57e0-36fb-411a-bd5c-09ca46714be7")
+		)
+		(fp_line
+			(start 0.93 0.47)
+			(end -0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "b4e258d9-67ce-4f39-a654-a5a24e0b8d45")
 		)
 		(fp_line
 			(start -0.525 -0.27)
@@ -92131,16 +92121,6 @@
 			(uuid "93fefd18-c37d-4d0a-9bac-f7356ffb92bc")
 		)
 		(fp_line
-			(start 0.525 0.27)
-			(end -0.525 0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "0fbc6f6d-80dd-45fa-af1e-e22853926186")
-		)
-		(fp_line
 			(start -0.525 0.27)
 			(end -0.525 -0.27)
 			(stroke
@@ -92150,8 +92130,28 @@
 			(layer "F.Fab")
 			(uuid "8ed11a13-40e1-4572-903a-c89427e30d21")
 		)
+		(fp_line
+			(start 0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "99eaca37-91fe-4ee8-bcdf-b70d791b06a7")
+		)
+		(fp_line
+			(start 0.525 0.27)
+			(end -0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "0fbc6f6d-80dd-45fa-af1e-e22853926186")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b1568c5a-f0ab-4a6f-a0af-8497d7333846")
 			(effects
@@ -92162,7 +92162,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.51 0 90)
+			(at -0.51 0)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -92182,7 +92182,7 @@
 			(uuid "5aaf02bf-c76e-4324-8624-5ee2e54da16e")
 		)
 		(pad "2" smd roundrect
-			(at 0.51 0 90)
+			(at 0.51 0)
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -92202,7 +92202,7 @@
 			(uuid "99216464-49d2-4424-85cf-c68c73348645")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -92592,7 +92592,7 @@
 			(uuid "34593fd6-8ae2-4b8b-88ef-e97a14c2583c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
